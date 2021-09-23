@@ -1,0 +1,24 @@
+{
+  "name": "dream-work",
+  "version": "1.0.0",
+  "description": "team profile generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atommielcarek/dream-work.git"
+  },
+  "keywords": [
+    "generator",
+    "node",
+    "html"
+  ],
+  "author": "atommielcarek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atommielcarek/dream-work/issues"
+  },
+  "homepage": "https://github.com/atommielcarek/dream-work#readme"
+}
