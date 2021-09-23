@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "team profile generator",
   "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
   "scripts": {
     "test": "npm test"
   },
@@ -20,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/atommielcarek/dream-work/issues"
   },
-  "homepage": "https://github.com/atommielcarek/dream-work#readme"
+  "homepage": "https://github.com/atommielcarek/dream-work#readme",
+  "dependencies": {
+    "inquirer": "^8.1.5"
+  }
 }
