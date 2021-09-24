@@ -81,7 +81,7 @@ const addManager = () => {
 const addEmployee = () => {
     console.log(`
     =================
-    Adding employees to the team
+    Add employees
     =================
     `);
 
@@ -202,7 +202,7 @@ const writeFile = data => {
             return;
         
         } else {
-            console.log("Your team profile has been successfully created! Please check out the index.html")
+            console.log("You've successfully created your team profile! Please check out the index.html")
         }
     })
 }; 
